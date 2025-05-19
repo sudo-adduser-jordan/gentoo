@@ -1,3 +1,4 @@
 {
-    "workbench.preferredHighContrastColorTheme": "Default Dark+"
+    "workbench.preferredHighContrastColorTheme": "Default Dark+",
+    "git.enableSmartCommit": true
 }
