@@ -64,6 +64,7 @@
         <value type="string" value="chrome_status_icon_1"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “infosphere” active: infosphere (57%)"/>
         <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="javaembeddedframe"/>
       </property>
@@ -203,12 +204,10 @@
     </property>
     <property name="plugin-7" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="17470591551.desktop"/>
       </property>
     </property>
     <property name="plugin-11" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="17470661432.desktop"/>
       </property>
     </property>
   </property>
