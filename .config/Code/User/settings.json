@@ -1,4 +1,9 @@
 {
-    "workbench.preferredHighContrastColorTheme": "Default Dark+",
-    "git.enableSmartCommit": true
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.stickyScroll.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
 }

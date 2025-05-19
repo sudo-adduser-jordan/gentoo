@@ -1,1 +1,1 @@
-/home/user1/.xinitrc
+exec startxfce4
