@@ -191,11 +191,9 @@
       <property name="category-icon-size" type="int" value="1"/>
       <property name="menu-height" type="int" value="500"/>
       <property name="recent" type="array">
-        <value type="string" value="com.jagex.Launcher.desktop"/>
-        <value type="string" value="com.usebottles.bottles.desktop"/>
+        <value type="string" value="thunar.desktop"/>
         <value type="string" value="xfce4-mime-settings.desktop"/>
         <value type="string" value="xfce-ui-settings.desktop"/>
-        <value type="string" value="com.github.tchx84.Flatseal.desktop"/>
         <value type="string" value="google-chrome.desktop"/>
         <value type="string" value="discord.desktop"/>
         <value type="string" value="xfce4-settings-editor.desktop"/>
