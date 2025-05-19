@@ -1,0 +1,32 @@
+# gentoo
+*
+!.gitignore
+
+# files
+!.xinitrc
+!.bashrc
+!.zshrc
+
+# folders
+!.icons
+!.themes
+# !.fonts
+
+# config
+!.config
+
+!.config/rofi
+!.config/rofi/config.rasi
+
+!.config/Code
+!.config/Code/User
+!.config/Code/User/settings.json
+
+!.config/xfce4
+!.config/xfce4/terminal
+!.config/xfce4/terminal/accels.scm
+
+!.config/xfce4/xfconf
+!.config/xfce4/xfconf/xfce-perchannel-xml
+!.config/xfce4/xfconf/xfce-perchannel-xml/*
+
