@@ -34,3 +34,5 @@
 !.config/xfce4/xfconf/xfce-perchannel-xml/*
 .config/xfce4/xfconf/xfce-perchannel-xml/pointers.xml
 .config/xfce4/xfconf/xfce-perchannel-xml/xfce4-power-manager.xml
+
+# !.config/xdg-portals/*
