@@ -36,3 +36,7 @@
 .config/xfce4/xfconf/xfce-perchannel-xml/xfce4-power-manager.xml
 
 # !.config/xdg-portals/*
+
+!.vscode
+!.vscode/extensions
+!.vscode/extensions/extensions.json
