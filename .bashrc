@@ -15,7 +15,7 @@ if [[ $- != *i* ]] ; then
 fi
 
 
-# Put your fun stuff here.
-exec zsh
+# User Created
+exec zsh # add why this is here
 
 

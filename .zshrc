@@ -102,3 +102,12 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# User Created 
+alias ls='ls -la'
+alias codeh='code ~/'
+alias coder='code /'
+
+alias update='sudo emerge -avquD @world' 
+alias clean='sudo emerge --clean'
+alias cleand='sudo emerge --depclean'
