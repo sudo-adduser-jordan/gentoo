@@ -6,6 +6,7 @@
 !.xinitrc
 !.bashrc
 !.zshrc
+!make.conf
 
 # folders
 !.icons
