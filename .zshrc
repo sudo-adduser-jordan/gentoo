@@ -107,8 +107,11 @@ source $ZSH/oh-my-zsh.sh
 alias ls='ls -la'
 
 alias update='sudo emerge -avquD @world' 
-alias clean='sudo emerge --clean'
-alias cleand='sudo emerge --depclean'
+alias update-new='sudo emerge -avquDN @world' 
+alias update-changed='sudo emerge -avquDU @world' 
+alias clean='sudo emerge --clean --ask'
+alias cleand='sudo emerge --depclean --ask'
+alias install='sudo emerge -avq'
 alias listi='qlist -I'
 
 alias codeh='code ~/'
