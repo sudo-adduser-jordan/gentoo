@@ -1,0 +1,6 @@
+sudo emerge --ask --verbose --quiet \
+xserver \
+xfce-base/xfce4-meta \
+vscode \
+discord \
+zsh\
