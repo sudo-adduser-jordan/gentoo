@@ -5,8 +5,8 @@
   <property name="window-width" type="int" value="1202"/>
   <property name="window-height" type="int" value="1252"/>
   <property name="columns" type="empty">
-    <property name="sort-type" type="uint" value="1"/>
-    <property name="sort-id" type="uint" value="6"/>
+    <property name="sort-type" type="uint" value="0"/>
+    <property name="sort-id" type="uint" value="7"/>
   </property>
   <property name="interface" type="empty">
     <property name="process-tree" type="bool" value="true"/>
