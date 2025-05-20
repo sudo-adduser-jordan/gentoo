@@ -1,4 +1,5 @@
 sudo emerge --ask --verbose --quiet \
+fastfetch \
 xserver \
 xfce-base/xfce4-meta \
 vscode \
