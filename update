@@ -1,0 +1,1 @@
+sudo emerge --ask --verbose --quiet --update --deep @world

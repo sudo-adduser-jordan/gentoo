@@ -7,6 +7,10 @@
 !.bashrc
 !.zshrc
 
+!update
+!clean
+!clean-deps
+
 # folders
 !.icons
 !.themes

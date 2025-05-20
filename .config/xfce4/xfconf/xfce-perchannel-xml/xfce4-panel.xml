@@ -14,8 +14,6 @@
       <property name="plugin-ids" type="array">
         <value type="int" value="20"/>
         <value type="int" value="1"/>
-        <value type="int" value="11"/>
-        <value type="int" value="7"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
         <value type="int" value="6"/>
@@ -198,14 +196,6 @@
         <value type="string" value="discord.desktop"/>
         <value type="string" value="xfce4-settings-editor.desktop"/>
         <value type="string" value="xfce4-file-manager.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-7" type="string" value="launcher">
-      <property name="items" type="array">
-      </property>
-    </property>
-    <property name="plugin-11" type="string" value="launcher">
-      <property name="items" type="array">
       </property>
     </property>
   </property>
