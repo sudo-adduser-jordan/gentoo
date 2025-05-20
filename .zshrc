@@ -105,9 +105,11 @@ source $ZSH/oh-my-zsh.sh
 
 # User Created 
 alias ls='ls -la'
-alias codeh='code ~/'
-alias coder='code /'
 
 alias update='sudo emerge -avquD @world' 
 alias clean='sudo emerge --clean'
 alias cleand='sudo emerge --depclean'
+alias listi='qlist -I'
+
+alias codeh='code ~/'
+alias coder='code /'
