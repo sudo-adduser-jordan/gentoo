@@ -25,6 +25,7 @@
 !.config/Code
 !.config/Code/User
 !.config/Code/User/settings.json
+!.config/Code/User/keybindings.json
 
 !.config/xfce4
 !.config/xfce4/terminal
