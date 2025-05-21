@@ -24,5 +24,6 @@
         ".dbus",
         ".gnupg",
         ".local"
-    ]
+    ],
+    "workbench.startupEditor": "none"
 }
