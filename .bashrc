@@ -19,3 +19,4 @@ fi
 exec zsh # add why this is here
 
 
+xset -b
