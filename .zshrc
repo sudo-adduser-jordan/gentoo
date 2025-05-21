@@ -117,6 +117,9 @@ alias listi='qlist -I'
 alias codeh='code ~/'
 alias coder='code /'
 
+alias control='systemctl'
+alias controlu='systemctl --user'
+
 alias testportal='/usr/libexec/xdg-desktop-portal -vr'
 alias testportal-gtk='/usr/libexec/xdg-desktop-portal-gtk -vr'
 alias testbottles='flatpak run -v com.usebottles.bottles'

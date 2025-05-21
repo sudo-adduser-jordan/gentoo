@@ -40,3 +40,12 @@
 !.vscode
 !.vscode/extensions
 !.vscode/extensions/extensions.json
+
+!.config/google-chrome
+!.config/google-chrome/Default
+!.config/google-chrome/Default/Bookmarks
+
+
+!.librewolf
+!.librewolf/ymugjo1q.default-default
+!.librewolf/ymugjo1q.default-default/places.sqlite
