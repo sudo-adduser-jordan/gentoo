@@ -8,4 +8,13 @@ pipewire mask dep gentoo forums
 need a dm for portals - lightdm sddm
 xdg-gtk restart portal maybe resinstall
 
+nvim needs
+ *   x11-misc/xsel for clipboard support
+ *   x11-misc/xclip for clipboard support
+ *   gui-apps/wl-clipboard for clipboard support
+ *   dev-python/pynvim for Python plugin support
+ *   dev-ruby/neovim-ruby-client for Ruby plugin support
+ *   dev-python/neovim-remote for remote/nvr support
 
+
+eselect repository enable guru

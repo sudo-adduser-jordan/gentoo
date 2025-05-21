@@ -126,5 +126,6 @@ alias testbottles='flatpak run -v com.usebottles.bottles'
 alias testdesktop='flatpak run -v io.github.shiftey.Desktop'
             
 
-
+alias sync='sudo emerge --sync'
+alias syncg='sudo emerge --sync guru'
 
