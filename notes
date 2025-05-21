@@ -1,0 +1,11 @@
+sudo systemctl set-default graphical.target
+
+black list the pcspkr arch docs
+
+pipewire mask dep gentoo forums
+
+
+need a dm for portals - lightdm sddm
+xdg-gtk restart portal maybe resinstall
+
+
