@@ -104,7 +104,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # User Created 
-alias ls='ls -la'
+alias ls='lsd --tree --depth=1 -a'
 
 alias update='sudo emerge -avquD @world' 
 alias update-new='sudo emerge -avquDN @world' 
