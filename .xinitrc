@@ -42,6 +42,7 @@ fi
 
 # start some nice programs
 
+exec startxfce4
 
 
 if [ -n "`/etc/X11/chooser.sh`" ]; then
@@ -69,4 +70,3 @@ fi
 
 
 
-exec startxfce4
