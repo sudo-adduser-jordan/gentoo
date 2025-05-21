@@ -1,5 +1,5 @@
 {
-   "checksum": "379e222bd9dac1048ef0a72744d23b79",
+   "checksum": "a79f41b7eaf558253e59886e8051a072",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -24,10 +24,88 @@
             "name": "Gentoo Forums :: View topic - remove pulseaudio-daemon to switch to pipewire",
             "type": "url",
             "url": "https://forums.gentoo.org/viewtopic-p-8791032.html?sid=b1d9c75fb1a7274f567e2b99b5c2fb60"
+         }, {
+            "date_added": "13392344609129235",
+            "date_last_used": "0",
+            "guid": "8dc7bbdc-8620-4687-8577-a97134276eae",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "lostcoastwizard (lostcoastwizard)",
+            "type": "url",
+            "url": "https://github.com/lostcoastwizard"
+         }, {
+            "date_added": "13392344619361059",
+            "date_last_used": "0",
+            "guid": "44a78151-92ad-40d7-85da-d193307ca71e",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "sudo-adduser-jordan (jordan)",
+            "type": "url",
+            "url": "https://github.com/sudo-adduser-jordan/"
+         }, {
+            "date_added": "13392345209041279",
+            "date_last_used": "13392345262205218",
+            "guid": "b7c3a72e-e784-4821-953e-7e643c318f0a",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "gentoo/guru: [MIRROR] GURU: repository of new packages maintained collaboratively by users",
+            "type": "url",
+            "url": "https://github.com/gentoo/guru"
+         }, {
+            "children": [  ],
+            "date_added": "13392345218146675",
+            "date_last_used": "0",
+            "date_modified": "13392345218146675",
+            "guid": "b73a5eca-a388-4c4a-9c89-3174d3acd7df",
+            "id": "14",
+            "name": "dev",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345225217613",
+            "date_last_used": "0",
+            "date_modified": "13392345225217613",
+            "guid": "363ff84e-aeb1-4f64-9da5-60a624640f59",
+            "id": "15",
+            "name": "eve",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345231380560",
+            "date_last_used": "0",
+            "date_modified": "13392345231380560",
+            "guid": "b7352d78-db6d-4149-bd18-b90e9725b863",
+            "id": "16",
+            "name": "school",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345236654954",
+            "date_last_used": "0",
+            "date_modified": "13392345236654954",
+            "guid": "7965c151-ada1-429a-8519-0eef56d464e9",
+            "id": "17",
+            "name": "food",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345245177203",
+            "date_last_used": "0",
+            "date_modified": "13392345245177203",
+            "guid": "b44f04ad-0ef4-49a0-ada9-e2ff0024209e",
+            "id": "18",
+            "name": "sort",
+            "type": "folder"
          } ],
          "date_added": "13391159997903292",
          "date_last_used": "0",
-         "date_modified": "13392246502544363",
+         "date_modified": "13392345245177434",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
