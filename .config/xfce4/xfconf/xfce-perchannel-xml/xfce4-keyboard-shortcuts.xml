@@ -62,6 +62,7 @@
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Shift&gt;space" type="string" value="xfce4-terminal"/>
       <property name="&lt;Primary&gt;space" type="string" value="rofi -show"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;f" type="string" value="xfce4-terminal -e yazi"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
