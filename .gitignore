@@ -48,9 +48,8 @@
 !.config/google-chrome/Default/Bookmarks
 
 
-!.librewolf
-!.librewolf/ymugjo1q.default-default
-!.librewolf/ymugjo1q.default-default/places.sqlite
+# !.librewolf
+# !.librewolf/ymugjo1q.default-default
 
 !.config/yazi
 !.config/yazi/*
