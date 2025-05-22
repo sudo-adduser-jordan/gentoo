@@ -1,6 +1,7 @@
-# gentoo
+# linux
 *
 !.gitignore
+!.gitconfig
 
 # files
 !.xinitrc
