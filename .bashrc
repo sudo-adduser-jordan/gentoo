@@ -16,7 +16,7 @@ fi
 
 
 # User Created
-exec zsh # add why this is here
+# xset -b
+# exec zsh # add why this is here
 
 
-xset -b
