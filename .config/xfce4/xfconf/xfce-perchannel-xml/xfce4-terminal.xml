@@ -9,6 +9,6 @@
   <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>
   <property name="scrolling-on-keystroke" type="bool" value="true"/>
   <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
-  <property name="font-name" type="string" value="Source Code Pro 14"/>
+  <property name="font-name" type="string" value="Monospace 14"/>
   <property name="misc-confirm-close" type="bool" value="false"/>
 </channel>
