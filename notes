@@ -20,3 +20,11 @@ nvim needs
 eselect repository enable guru
 
 xfce4-terminal -e "zsh -c 'export EDITOR=code; yazi'"
+
+
+
+guru packages 
+sysd-manager 
+ulauncher
+stacer
+
