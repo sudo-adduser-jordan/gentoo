@@ -2,7 +2,6 @@
     "security.workspace.trust.untrustedFiles": "open",
     "explorer.confirmDelete": false,
     "workbench.iconTheme": "vscode-icons",
-    "editor.stickyScroll.enabled": false,
     "chat.commandCenter.enabled": false,
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
@@ -44,5 +43,8 @@
     "editor.inlayHints.enabled": "off",
     "[java]": {
         "editor.defaultFormatter": "redhat.java"
-    }
+    },
+    "explorer.compactFolders": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.tree.enableStickyScroll": false
 }
