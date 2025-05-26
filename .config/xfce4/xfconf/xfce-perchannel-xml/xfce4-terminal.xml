@@ -3,7 +3,7 @@
 <channel name="xfce4-terminal" version="1.0">
   <property name="misc-menubar-default" type="bool" value="false"/>
   <property name="misc-borders-default" type="bool" value="true"/>
-  <property name="misc-default-geometry" type="string" value="90x28"/>
+  <property name="misc-default-geometry" type="string" value="90x31"/>
   <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
   <property name="background-darkness" type="double" value="0.5"/>
   <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>

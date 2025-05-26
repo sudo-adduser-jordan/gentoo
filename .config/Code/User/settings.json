@@ -40,5 +40,9 @@
         "*.sdb": "${capture}.${extname}-*",
         "*.s3db": "${capture}.${extname}-*"
     },
-    "workbench.colorTheme": "Monokai"
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "editor.inlayHints.enabled": "off",
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    }
 }
