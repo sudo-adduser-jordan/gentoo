@@ -5,13 +5,6 @@
     "chat.commandCenter.enabled": false,
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
-    "files.exclude": {
-        "**/.DS_Store": false,
-        "**/.git": false,
-        "**/.hg": false,
-        "**/.svn": false,
-        "**/Thumbs.db": false
-    },
     "workbench.colorCustomizations": {
         "terminal.background":"#000"
     },
