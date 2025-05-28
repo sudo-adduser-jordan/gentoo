@@ -5,6 +5,7 @@
 
 # files
 !.xinitrc
+!appimage-install.sh
 !.xprofile
 !.bashrc
 !.zshrc

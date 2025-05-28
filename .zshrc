@@ -132,4 +132,3 @@ alias syncg='sudo emerge --sync guru'
 
 # variables
 export EDITOR='code'
-
