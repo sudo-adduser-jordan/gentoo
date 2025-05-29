@@ -210,7 +210,7 @@
       <property name="category-icon-size" type="int" value="1"/>
       <property name="menu-height" type="int" value="500"/>
       <property name="recent" type="array">
-        <value type="string" value="com.jagex.Launcher.desktop"/>
+        <value type="string" value="pyfa.desktop"/>
         <value type="string" value="com.usebottles.bottles.desktop"/>
         <value type="string" value="discord.desktop"/>
         <value type="string" value="thunar.desktop"/>
