@@ -1,5 +1,5 @@
 {
-   "checksum": "b95e4468a28f2fc0b2f3c39208260b28",
+   "checksum": "c9d90a0cb339368515f1495e35066212",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -69,10 +69,21 @@
                "name": "Gentoo Packages",
                "type": "url",
                "url": "https://packages.gentoo.org/"
+            }, {
+               "date_added": "13393052279644095",
+               "date_last_used": "0",
+               "guid": "83cacddf-fd32-4258-a67d-fad767ad52a8",
+               "id": "22",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "DevDocs API Documentation",
+               "type": "url",
+               "url": "https://devdocs.io/"
             } ],
             "date_added": "13392345218146675",
             "date_last_used": "0",
-            "date_modified": "13392889245955245",
+            "date_modified": "13393052279644095",
             "guid": "b73a5eca-a388-4c4a-9c89-3174d3acd7df",
             "id": "14",
             "name": "dev",

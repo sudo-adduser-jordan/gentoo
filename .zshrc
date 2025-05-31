@@ -132,3 +132,4 @@ alias syncg='sudo emerge --sync guru'
 
 # variables
 export EDITOR='code'
+export PATH="$PATH:/home/user1/.mix/escripts"

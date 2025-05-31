@@ -4,8 +4,8 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = lostcoastwizard
-	email = lostcoastwizard@gmail.com
+	name = jordan
+	email = sudo.sendmail.jordan@gmail.com
 [credential "https://github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential

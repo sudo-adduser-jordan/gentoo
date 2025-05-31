@@ -32,7 +32,7 @@
         "*.sdb": "${capture}.${extname}-*",
         "*.s3db": "${capture}.${extname}-*"
     },
-    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.colorTheme": "GitHub Dark High Contrast",
     "editor.inlayHints.enabled": "off",
     "[java]": {
         "editor.defaultFormatter": "redhat.java"
@@ -41,5 +41,6 @@
     "editor.stickyScroll.enabled": false,
     "workbench.tree.enableStickyScroll": false,
     "window.confirmSaveUntitledWorkspace": false,
-    "explorer.confirmPasteNative": false
+    "explorer.confirmPasteNative": false,
+    "explorer.confirmDragAndDrop": false
 }
