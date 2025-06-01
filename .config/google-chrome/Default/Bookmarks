@@ -1,10 +1,10 @@
 {
-   "checksum": "c9d90a0cb339368515f1495e35066212",
+   "checksum": "d373b0d0eba067011cfbe325adc59ecd",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13391160017386249",
-            "date_last_used": "13392859521889662",
+            "date_last_used": "13393225648770375",
             "guid": "392c6446-2f67-4480-9914-183687f41d08",
             "id": "5",
             "meta_info": {
@@ -80,10 +80,21 @@
                "name": "DevDocs API Documentation",
                "type": "url",
                "url": "https://devdocs.io/"
+            }, {
+               "date_added": "13393134816883758",
+               "date_last_used": "13393207990698010",
+               "guid": "28dc7edb-c379-4cc7-a0e8-f54927570342",
+               "id": "24",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "adventofcode-elixir/lib/advent_of_code/solution/year_2020/day_01.ex at main · jzimbel/adventofcode-elixir",
+               "type": "url",
+               "url": "https://github.com/jzimbel/adventofcode-elixir/blob/main/lib/advent_of_code/solution/year_2020/day_01.ex"
             } ],
             "date_added": "13392345218146675",
             "date_last_used": "0",
-            "date_modified": "13393052279644095",
+            "date_modified": "13393134816883758",
             "guid": "b73a5eca-a388-4c4a-9c89-3174d3acd7df",
             "id": "14",
             "name": "dev",
