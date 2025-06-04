@@ -112,6 +112,7 @@ alias update-changed='sudo emerge -avquDU @world'
 alias clean='sudo emerge --clean --ask'
 alias cleand='sudo emerge --depclean --ask'
 alias install='sudo emerge -avq'
+alias remove='sudo emerge -C'
 alias listi='qlist -I'
 
 alias codeh='code ~/'
