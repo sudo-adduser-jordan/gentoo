@@ -1,0 +1,2 @@
+git config --global user.name "jordan"
+git config --global user.email "sudo.sendmail.jordan"

@@ -2,6 +2,8 @@
 *
 !.gitignore
 !.gitconfig
+!git-jordan
+!git-lostcoastwizard
 
 # files
 !.xinitrc
