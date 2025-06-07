@@ -43,5 +43,6 @@
     "window.confirmSaveUntitledWorkspace": false,
     "explorer.confirmPasteNative": false,
     "explorer.confirmDragAndDrop": false,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "git.openRepositoryInParentFolders": "always"
 }
