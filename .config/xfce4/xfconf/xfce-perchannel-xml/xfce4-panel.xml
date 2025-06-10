@@ -65,6 +65,7 @@
         <value type="string" value="chrome_status_icon_1"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “infosphere” active: infosphere (62%)"/>
         <value type="string" value="hp-systray"/>
         <value type="string" value="notifications"/>
         <value type="string" value="clipman"/>
