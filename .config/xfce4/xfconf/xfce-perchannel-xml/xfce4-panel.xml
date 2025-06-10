@@ -6,11 +6,11 @@
     <value type="int" value="1"/>
     <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-1" type="empty">
-      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="position" type="string" value="p=8;x=960;y=1059"/>
       <property name="length" type="double" value="100"/>
-      <property name="position-locked" type="bool" value="true"/>
+      <property name="position-locked" type="bool" value="false"/>
       <property name="icon-size" type="uint" value="0"/>
-      <property name="size" type="uint" value="26"/>
+      <property name="size" type="uint" value="30"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="20"/>
         <value type="int" value="1"/>
@@ -25,7 +25,7 @@
         <value type="int" value="4"/>
       </property>
       <property name="mode" type="uint" value="0"/>
-      <property name="border-width" type="uint" value="11"/>
+      <property name="border-width" type="uint" value="5"/>
       <property name="enter-opacity" type="uint" value="75"/>
       <property name="leave-opacity" type="uint" value="75"/>
       <property name="background-style" type="uint" value="1"/>

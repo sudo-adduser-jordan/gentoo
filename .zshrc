@@ -106,14 +106,16 @@ source $ZSH/oh-my-zsh.sh
 # User Created 
 alias ls='lsd --tree --depth=1 -a'
 
+alias listi='qlist -I'
+alias sync='sudo emerge --sync'
+alias syncg='sudo emerge --sync guru'
+alias install='sudo emerge -avq'
+alias remove='sudo emerge -C'
 alias update='sudo emerge -avquD @world' 
 alias update-new='sudo emerge -avquDN @world' 
 alias update-changed='sudo emerge -avquDU @world' 
 alias clean='sudo emerge --clean --ask'
 alias cleand='sudo emerge --depclean --ask'
-alias install='sudo emerge -avq'
-alias remove='sudo emerge -C'
-alias listi='qlist -I'
 
 alias codeh='code ~/'
 alias coder='code /'
@@ -127,8 +129,6 @@ alias testbottles='flatpak run -v com.usebottles.bottles'
 alias testdesktop='flatpak run -v io.github.shiftey.Desktop'
             
 
-alias sync='sudo emerge --sync'
-alias syncg='sudo emerge --sync guru'
 
 
 # variables
