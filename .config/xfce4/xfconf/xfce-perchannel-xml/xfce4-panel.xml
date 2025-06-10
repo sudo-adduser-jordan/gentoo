@@ -9,22 +9,22 @@
       <property name="position" type="string" value="p=6;x=0;y=0"/>
       <property name="length" type="double" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="22"/>
+      <property name="icon-size" type="uint" value="0"/>
       <property name="size" type="uint" value="26"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="20"/>
         <value type="int" value="1"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
         <value type="int" value="6"/>
         <value type="int" value="5"/>
         <value type="int" value="10"/>
         <value type="int" value="19"/>
-        <value type="int" value="8"/>
-        <value type="int" value="9"/>
         <value type="int" value="4"/>
       </property>
-      <property name="mode" type="uint" value="2"/>
+      <property name="mode" type="uint" value="0"/>
       <property name="border-width" type="uint" value="11"/>
       <property name="enter-opacity" type="uint" value="75"/>
       <property name="leave-opacity" type="uint" value="75"/>
@@ -38,7 +38,6 @@
       <property name="output-name" type="string" value="Automatic"/>
       <property name="nrows" type="uint" value="1"/>
       <property name="autohide-behavior" type="uint" value="2"/>
-      <property name="span-monitors" type="bool" value="false"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -66,16 +65,15 @@
         <value type="string" value="chrome_status_icon_1"/>
       </property>
       <property name="known-legacy-items" type="array">
-        <value type="string" value="wi-fi network connection “infosphere” active: infosphere (62%)"/>
         <value type="string" value="hp-systray"/>
         <value type="string" value="notifications"/>
         <value type="string" value="clipman"/>
         <value type="string" value="wi-fi network connection “infosphere” active: infosphere (77%)"/>
         <value type="string" value="wi-fi network connection “infosphere” active: infosphere (63%)"/>
-        <value type="string" value="networkmanager applet"/>
         <value type="string" value="wi-fi network connection “infosphere” active: infosphere (67%)"/>
         <value type="string" value="wi-fi network connection “infosphere” active: infosphere (72%)"/>
         <value type="string" value="wi-fi network connection “infosphere” active: infosphere (60%)"/>
+        <value type="string" value="wi-fi network connection “infosphere” active: infosphere (62%)"/>
         <value type="string" value="wi-fi network connection “infosphere” active: infosphere (51%)"/>
         <value type="string" value="wi-fi network connection “infosphere” active: infosphere (54%)"/>
         <value type="string" value="wi-fi network connection “infosphere” active: infosphere (70%)"/>
@@ -91,17 +89,20 @@
         <value type="string" value="wi-fi network connection “infosphere” active: infosphere (57%)"/>
         <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="javaembeddedframe"/>
+        <value type="string" value="networkmanager applet"/>
       </property>
     </property>
     <property name="plugin-8" type="string" value="clock">
       <property name="mode" type="uint" value="2"/>
       <property name="digital-date-format" type="string" value="%A, %B %d, %Y"/>
-      <property name="digital-layout" type="uint" value="3"/>
+      <property name="digital-layout" type="uint" value="0"/>
       <property name="digital-time-format" type="string" value="%I:%M %p"/>
       <property name="show-week-numbers" type="bool" value="true"/>
+      <property name="digital-time-font" type="string" value="JetBrains Mono 8"/>
     </property>
     <property name="plugin-9" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="true"/>
     </property>
     <property name="plugin-10" type="string" value="actions">
       <property name="appearance" type="uint" value="0"/>
@@ -121,12 +122,12 @@
       </property>
     </property>
     <property name="plugin-19" type="string" value="separator">
-      <property name="style" type="uint" value="1"/>
+      <property name="style" type="uint" value="2"/>
     </property>
     <property name="plugin-20" type="string" value="cpugraph">
       <property name="update-interval" type="int" value="0"/>
       <property name="time-scale" type="int" value="0"/>
-      <property name="size" type="int" value="25"/>
+      <property name="size" type="int" value="44"/>
       <property name="mode" type="int" value="1"/>
       <property name="color-mode" type="int" value="3"/>
       <property name="frame" type="int" value="0"/>
@@ -139,7 +140,7 @@
       <property name="load-threshold" type="int" value="0"/>
       <property name="smt-stats" type="int" value="1"/>
       <property name="smt-issues" type="int" value="1"/>
-      <property name="per-core-spacing" type="int" value="2"/>
+      <property name="per-core-spacing" type="int" value="3"/>
       <property name="command" type="string" value=""/>
       <property name="background" type="array">
         <value type="double" value="0"/>
