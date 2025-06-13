@@ -4,7 +4,7 @@
       "bookmark_bar": {
          "children": [ {
             "date_added": "13391160017386249",
-            "date_last_used": "13393986232439234",
+            "date_last_used": "13394151242807972",
             "guid": "392c6446-2f67-4480-9914-183687f41d08",
             "id": "5",
             "meta_info": {
@@ -15,7 +15,7 @@
             "url": "https://access.wgu.edu/pingfed/as/authorization.oauth2?response_type=code&client_id=wgu&redirect_uri=https%3A%2F%2Fmy.wgu.edu%2Fpa%2Foidc%2Fcb&state=eyJ6aXAiOiJERUYiLCJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiUnowVEl5d3p4a1RKaGdkMWJ1UEIxOERsYzNNIiwic3VmZml4IjoiemlmSUdOLjE3NDY2ODY0NzYifQ..5gtohGOTR5H6K4-NWGYZIw.tjB0t4bpFZSgAKwpbZVurH9oeHz5NhgcLgcNfVpbuwVKKAFt1dQFREMor4-w64jNMNRjmG44K64uPJ1j_-NAp0Q5jq2W32I3DCYccLoubO4.9rRjzOtP3-bw6G03K-BpAQ&nonce=_R0d7UMYrH-4QjTwBnOK7b8A5VKVYcONxa_K54RA9ps&scope=openid%20profile%20address%20email%20phone&vnd_pi_requested_resource=https%3A%2F%2Fmy.wgu.edu%2F&vnd_pi_application_name=Student+Portal+PROD+%28my.wgu.edu%29"
          }, {
             "date_added": "13392344609129235",
-            "date_last_used": "13394011322193129",
+            "date_last_used": "13394067742003048",
             "guid": "8dc7bbdc-8620-4687-8577-a97134276eae",
             "id": "10",
             "meta_info": {
@@ -26,7 +26,7 @@
             "url": "https://github.com/lostcoastwizard"
          }, {
             "date_added": "13392344619361059",
-            "date_last_used": "13394011329833528",
+            "date_last_used": "13394179742149878",
             "guid": "44a78151-92ad-40d7-85da-d193307ca71e",
             "id": "11",
             "meta_info": {
