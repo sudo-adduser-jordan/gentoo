@@ -42,9 +42,9 @@
 !.vscode/extensions
 !.vscode/extensions/extensions.json
 
-!.config/google-chrome
-!.config/google-chrome/Default
-!.config/google-chrome/Default/Bookmarks
+# !.config/google-chrome
+# !.config/google-chrome/Default
+# !.config/google-chrome/Default/Bookmarks
 
 # !.librewolf
 # !.librewolf/ymugjo1q.default-default
