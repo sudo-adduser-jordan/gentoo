@@ -76,5 +76,6 @@
         "ylabel",
         "yticklabels"
     ],
-    "jupyter.askForKernelRestart": false
+    "jupyter.askForKernelRestart": false,
+    "workbench.secondarySideBar.defaultVisibility": "hidden"
 }
