@@ -1,0 +1,53 @@
+*
+!.gitignore
+!.gitconfig
+
+# files
+!README.md
+!.bashrc
+!.zshrc
+!appimage-install.sh
+
+# folders
+!Pictures
+!Pictures/gentoo
+!Pictures/gentoo/*
+!.icons
+!.themes
+# !.fonts
+
+# config
+!.config
+
+!.config/fastfetch
+!.config/fastfetch/*
+
+!.config/rofi
+!.config/rofi/config.rasi
+
+!.config/Code
+!.config/Code/User
+!.config/Code/User/settings.json
+!.config/Code/User/keybindings.json
+
+!.config/xfce4
+!.config/xfce4/terminal
+!.config/xfce4/terminal/accels.scm
+
+!.config/xfce4/xfconf
+!.config/xfce4/xfconf/xfce-perchannel-xml
+!.config/xfce4/xfconf/xfce-perchannel-xml/*
+
+!.vscode
+!.vscode/extensions
+!.vscode/extensions/extensions.json
+
+!.config/google-chrome
+!.config/google-chrome/Default
+!.config/google-chrome/Default/Bookmarks
+
+# !.librewolf
+# !.librewolf/ymugjo1q.default-default
+
+# auto generated 
+.config/xfce4/xfconf/xfce-perchannel-xml/pointers.xml

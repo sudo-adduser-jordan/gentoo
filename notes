@@ -1,0 +1,39 @@
+# NOTES
+
+
+
+# important notes
+nvim needs
+ *   x11-misc/xsel for clipboard support
+ *   x11-misc/xclip for clipboard support
+ *   gui-apps/wl-clipboard for clipboard support
+ *   dev-python/pynvim for Python plugin support
+ *   dev-ruby/neovim-ruby-client for Ruby plugin support
+ *   dev-python/neovim-remote for remote/nvr support
+
+dm manager
+    sudo systemctl set-default graphical.target
+black list the pcspkr - use arch docs
+pipewire mask dependency - gentoo forums
+need a dm for portals - lightdm sddm - reinstall - check with gui systemctl
+
+
+
+# commands
+eselect repository enable guru
+cat /dev/null > packages && qlist -I > packages
+xfce4-terminal -e "zsh -c 'export EDITOR=code; yazi'"
+
+
+# guru packages 
+appimage-launcher
+sysd-manager 
+ulauncher
+stacer
+
+#gento documentation
+portals and dm
+pipewire mask
+
+
+

@@ -1,0 +1,246 @@
+{
+   "checksum": "513c838acd842b849e7eb9afcedc08ae",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13391160017386249",
+            "date_last_used": "13401235877291580",
+            "guid": "392c6446-2f67-4480-9914-183687f41d08",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Sign On",
+            "type": "url",
+            "url": "https://access.wgu.edu/pingfed/as/authorization.oauth2?response_type=code&client_id=wgu&redirect_uri=https%3A%2F%2Fmy.wgu.edu%2Fpa%2Foidc%2Fcb&state=eyJ6aXAiOiJERUYiLCJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiUnowVEl5d3p4a1RKaGdkMWJ1UEIxOERsYzNNIiwic3VmZml4IjoiemlmSUdOLjE3NDY2ODY0NzYifQ..5gtohGOTR5H6K4-NWGYZIw.tjB0t4bpFZSgAKwpbZVurH9oeHz5NhgcLgcNfVpbuwVKKAFt1dQFREMor4-w64jNMNRjmG44K64uPJ1j_-NAp0Q5jq2W32I3DCYccLoubO4.9rRjzOtP3-bw6G03K-BpAQ&nonce=_R0d7UMYrH-4QjTwBnOK7b8A5VKVYcONxa_K54RA9ps&scope=openid%20profile%20address%20email%20phone&vnd_pi_requested_resource=https%3A%2F%2Fmy.wgu.edu%2F&vnd_pi_application_name=Student+Portal+PROD+%28my.wgu.edu%29"
+         }, {
+            "date_added": "13392344609129235",
+            "date_last_used": "13394067742003048",
+            "guid": "8dc7bbdc-8620-4687-8577-a97134276eae",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "lostcoastwizard (lostcoastwizard)",
+            "type": "url",
+            "url": "https://github.com/lostcoastwizard"
+         }, {
+            "date_added": "13392344619361059",
+            "date_last_used": "13399197139006977",
+            "guid": "44a78151-92ad-40d7-85da-d193307ca71e",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "sudo-adduser-jordan (jordan)",
+            "type": "url",
+            "url": "https://github.com/sudo-adduser-jordan/"
+         }, {
+            "date_added": "13392345209041279",
+            "date_last_used": "13392345262205218",
+            "guid": "b7c3a72e-e784-4821-953e-7e643c318f0a",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "gentoo/guru: [MIRROR] GURU: repository of new packages maintained collaboratively by users",
+            "type": "url",
+            "url": "https://github.com/gentoo/guru"
+         }, {
+            "children": [ {
+               "date_added": "13392246502544363",
+               "date_last_used": "0",
+               "guid": "a4c92bca-25fa-4b88-9efd-ab854df32723",
+               "id": "8",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Gentoo Forums :: View topic - remove pulseaudio-daemon to switch to pipewire",
+               "type": "url",
+               "url": "https://forums.gentoo.org/viewtopic-p-8791032.html?sid=b1d9c75fb1a7274f567e2b99b5c2fb60"
+            }, {
+               "date_added": "13392889245955245",
+               "date_last_used": "0",
+               "guid": "a2d9ad44-155f-4218-b854-3f991fe30e76",
+               "id": "20",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Gentoo Packages",
+               "type": "url",
+               "url": "https://packages.gentoo.org/"
+            }, {
+               "date_added": "13393052279644095",
+               "date_last_used": "0",
+               "guid": "83cacddf-fd32-4258-a67d-fad767ad52a8",
+               "id": "22",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "DevDocs API Documentation",
+               "type": "url",
+               "url": "https://devdocs.io/"
+            }, {
+               "date_added": "13393134816883758",
+               "date_last_used": "13393885875838010",
+               "guid": "28dc7edb-c379-4cc7-a0e8-f54927570342",
+               "id": "24",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "adventofcode-elixir/lib/advent_of_code/solution/year_2020/day_01.ex at main · jzimbel/adventofcode-elixir",
+               "type": "url",
+               "url": "https://github.com/jzimbel/adventofcode-elixir/blob/main/lib/advent_of_code/solution/year_2020/day_01.ex"
+            }, {
+               "date_added": "13393889624526416",
+               "date_last_used": "13393891521103709",
+               "guid": "fea007dd-6b35-4597-88ce-cf4f4198c693",
+               "id": "26",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "advent-of-code-2020/day3 at master · rlamsal1256/advent-of-code-2020",
+               "type": "url",
+               "url": "https://github.com/rlamsal1256/advent-of-code-2020/tree/master/day3"
+            }, {
+               "date_added": "13393891342046713",
+               "date_last_used": "0",
+               "guid": "cb9039cc-34fd-4b1c-9bdc-a5f7dbc888a8",
+               "id": "27",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Advent of Code 2024",
+               "type": "url",
+               "url": "https://adventofcode.com/"
+            }, {
+               "date_added": "13395398414612762",
+               "date_last_used": "0",
+               "guid": "7a3491f0-c74d-43eb-92ae-a396faebc1ce",
+               "id": "29",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "C964/Riddle C964 PA Submittal.ipynb at main · jridd53/C964",
+               "type": "url",
+               "url": "https://github.com/jridd53/C964/blob/main/Riddle%20C964%20PA%20Submittal.ipynb"
+            }, {
+               "date_added": "13395398663455754",
+               "date_last_used": "13396051680944105",
+               "guid": "1ea41058-5ed9-4f9b-beb1-11ee660605ae",
+               "id": "30",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "hchen8566/C964-Diabetes-Prediciton-Model",
+               "type": "url",
+               "url": "https://github.com/hchen8566/C964-Diabetes-Prediciton-Model"
+            }, {
+               "date_added": "13395401484086355",
+               "date_last_used": "13395983473802871",
+               "guid": "970f1e7d-9740-4957-85bd-b3ca68a83131",
+               "id": "31",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Streamlit",
+               "type": "url",
+               "url": "https://c964-machine-learning-capstone-hao-chen.streamlit.app/"
+            }, {
+               "date_added": "13395479057825488",
+               "date_last_used": "0",
+               "guid": "58c11fee-d95a-4bbd-a3bf-cda5553b0876",
+               "id": "33",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Streamlit • A faster way to build and share data apps",
+               "type": "url",
+               "url": "https://streamlit.io/"
+            }, {
+               "date_added": "13395818430685493",
+               "date_last_used": "0",
+               "guid": "a9aaab8f-a4b8-4685-8d95-949a88639c9e",
+               "id": "35",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "thermodynamics - Does water boil faster in a shallow wide pan or a deep pot - Physics Stack Exchange",
+               "type": "url",
+               "url": "https://physics.stackexchange.com/questions/469686/does-water-boil-faster-in-a-shallow-wide-pan-or-a-deep-pot"
+            } ],
+            "date_added": "13392345218146675",
+            "date_last_used": "0",
+            "date_modified": "13395821218492890",
+            "guid": "b73a5eca-a388-4c4a-9c89-3174d3acd7df",
+            "id": "14",
+            "name": "dev",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345225217613",
+            "date_last_used": "0",
+            "date_modified": "13392345225217613",
+            "guid": "363ff84e-aeb1-4f64-9da5-60a624640f59",
+            "id": "15",
+            "name": "eve",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345231380560",
+            "date_last_used": "0",
+            "date_modified": "13392345231380560",
+            "guid": "b7352d78-db6d-4149-bd18-b90e9725b863",
+            "id": "16",
+            "name": "school",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345236654954",
+            "date_last_used": "0",
+            "date_modified": "13392345236654954",
+            "guid": "7965c151-ada1-429a-8519-0eef56d464e9",
+            "id": "17",
+            "name": "food",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345245177203",
+            "date_last_used": "0",
+            "date_modified": "13392345245177203",
+            "guid": "b44f04ad-0ef4-49a0-ada9-e2ff0024209e",
+            "id": "18",
+            "name": "sort",
+            "type": "folder"
+         } ],
+         "date_added": "13391159997903292",
+         "date_last_used": "0",
+         "date_modified": "13392345245177434",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13391159997903295",
+         "date_last_used": "0",
+         "date_modified": "13391160017386249",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13391159997903299",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
